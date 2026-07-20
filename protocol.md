@@ -1,6 +1,3 @@
-
-[[fish lines]]
-[[light-sheet microscopy components]]
 # Overview
 
 1. Fish embedding in agarose
