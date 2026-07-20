@@ -10,7 +10,7 @@
 | Tg(elavl3:H2B-GCaMP6f)   | Ruben <br>DOB - look up             | elavl3 (HuC)                                                                               | Nuclear (H2B-fusion) - signal confined to nucleus, one bright compact ROI per cell | GCaMP6f = "fast": lower ΔF/F than 6s, half-decay ≈ 140 ms                      | Fast light-sheet acquisitions and studies prioritizing temporal precision / spike timing over maximal sensitivity                  |
 | Tg(elavl3:H2B-GCaMP6s)   | Ruben DOB_12.16.2025                | elavl3 (HuC)                                                                               | Nuclear (H2B-fusion) - signal confined to nucleus                                  | GCaMP6s = "slow/sensitive": high ΔF/F, half-decay ≈ 1.8 s                      | Whole-brain, cellular-resolution light-sheet functional imaging — the field-standard combination (Vladimirov et al. 2014)          |
 |                          |                                     |                                                                                            |                                                                                    |                                                                                |                                                                                                                                    |
-_*Exact promoter/indicator identity of the in-house casper;GCaMP line should be confirmed against the founder paperwork — "Casper GCaMP" alone doesn't specify the promoter or GCaMP variant._
+> **Note:** Exact promoter/indicator identity of the in-house casper;GCaMP line should be confirmed against the founder paperwork — "Casper GCaMP" alone doesn't specify the promoter or GCaMP variant.
 
 ## casper; GCaMP (in-house line, n = 3)
 
@@ -57,7 +57,6 @@ Casper is a double pigmentation mutant, crossed to nacre. The combination leaves
 Chen, T.-W., Wardill, T.J., Sun, Y., Pulver, S.R., Renninger, S.L., Baohan, A., Schreiter, E.R., Kerr, R.A., Orger, M.B., Jayaraman, V., Looger, L.L., Svoboda, K., & Kim, D.S. (2013). Ultrasensitive fluorescent proteins for imaging neuronal activity. *Nature*, 499, 295–300.
 
 Vladimirov, N., Mu, Y., Kawashima, T., Bennett, D.V., Yang, C.-T., Looger, L.L., Keller, P.J., Freeman, J., & Ahrens, M.B. (2014). Light-sheet functional imaging in fictively behaving zebrafish. *Nature Methods*, 11, 883–884.
-![[Pasted image 20260713144137.png|637]]
 
 Freeman, J., Vladimirov, N., Kawashima, T., Mu, Y., Sofroniew, N.J., Bennett, D.V., Rosen, J., Yang, C.-T., Looger, L.L., & Ahrens, M.B. (2014). Mapping brain activity at scale with cluster computing. *Nature Methods*, 11, 941–950.
 
